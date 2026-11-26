@@ -1,1 +1,1 @@
-const DEFAULT_GAS_WEBAPP_URL = 'ลบข้อความนี้ออกแล้วเอาลิงก์ที่ก๊อปปี้มาวางแทนแล้วsave';
+const DEFAULT_GAS_WEBAPP_URL = 'https://script.google.com/macros/s/AKfycby-IJRwQCuWyElar3xlbnXChLWRUkBvZydP4uZ1Ql4OxT7EDXxtuoVtxbtXCxHr7X0/exec';
